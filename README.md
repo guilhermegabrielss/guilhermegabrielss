@@ -1,10 +1,9 @@
-![](https://komarev.com/ghpvc/?username=joaofelixss&color=006bed)
+![](https://komarev.com/ghpvc/?username=GuilhermeGabrielSS&color=006bed)
 
 <h3> 👨🏽‍🦱 Olá meu nome é Guilherme Gabriel 👋 </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudante do Ensino Médio
-- 💼 &nbsp; Estou a procura de **Estágio**.
 - 🌱 &nbsp; Aprendendo mais sobre **🧑‍💻Desenvolvimento Back end**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
@@ -18,7 +17,7 @@
 ## **GitHub Statistics**
 
 <div align="center">
-<a href="https://github.com/joaofelixss">
+<a href="https://github.com/GuilhermeGabrielSS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGabrielSS&langs_count=7&theme=dark&hide_langs_below=1&layout=compact"  heigth="160em" width="400px"/>
 </a>
 
