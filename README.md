@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudante do Ensino Médio
-- 🌱 &nbsp; Aprendendo mais sobre **🧑‍💻Desenvolvimento Back web**.
+- 🌱 &nbsp; Aprendendo mais sobre **🧑‍💻Desenvolvimento web**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
