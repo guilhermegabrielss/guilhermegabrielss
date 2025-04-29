@@ -1,9 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=GuilhermeGabrielSS&color=006bed)
 
-<h3> 👨🏽‍🦱 Olá meu nome é Guilherme Gabriel 👋 </h3>
+<h3> 👨🏽‍🦱 Hello! My name is Guilherme Gabriel 👋 </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudante do Ensino Médio
+- 🎓 &nbsp; Estudante de Análise e Desenvovimento de Sistemas.
 - 🌱 &nbsp; Aprendendo mais sobre **🧑‍💻Desenvolvimento web**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
