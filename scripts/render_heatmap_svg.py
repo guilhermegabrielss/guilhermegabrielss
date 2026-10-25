@@ -12,7 +12,8 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 IN_PATH = os.path.join(HERE, "..", "data", "contributions.json")
 OUT_PATH = os.path.join(HERE, "..", "contrib-heatmap.svg")
 
-PALETTE = ["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353", "#69f0a0"]
+# github dark-theme levels 0-4
+PALETTE = ["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353"]
 
 CELL = 12
 GAP = 3
@@ -45,9 +46,7 @@ def level_for(count):
         return 2
     if count <= 30:
         return 3
-    if count <= 50:
-        return 4
-    return 5
+    return 4
 
 
 def build_grid(days):
@@ -60,7 +59,9 @@ def build_grid(days):
         weekday = (date.weekday() + 1) % 7
         while len(col) < weekday:
             col.append(None)
-        col.append((d["date"], d["count"], level_for(d["count"])))
+        # prefer github's own quartile level so shades match the real profile
+        level = d["level"] if "level" in d else level_for(d["count"])
+        col.append((d["date"], d["count"], level))
         if len(col) == 7:
             grid.append(col)
             col = []

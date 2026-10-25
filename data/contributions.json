@@ -1,26 +1,26 @@
 {
   "username": "guilhermegabrielss",
-  "generated_at": "2026-10-25T11:22:37Z",
+  "generated_at": "2026-10-25T22:33:26Z",
   "range": {
     "start": "2025-10-26",
     "end": "2026-10-25"
   },
-  "total_contributions": 5,
-  "active_days": 4,
-  "avg_per_active_day": 1.2,
+  "total_contributions": 68,
+  "active_days": 18,
+  "avg_per_active_day": 3.8,
   "current_streak": {
-    "length": 3,
+    "length": 4,
     "start": "2026-10-22",
-    "end": "2026-10-24"
+    "end": "2026-10-25"
   },
   "longest_streak": {
-    "length": 3,
-    "start": "2026-10-22",
-    "end": "2026-10-24"
+    "length": 8,
+    "start": "2026-05-27",
+    "end": "2026-06-03"
   },
   "best_day": {
-    "date": "2026-10-23",
-    "count": 2
+    "date": "2026-06-11",
+    "count": 12
   },
   "monthly": [
     {
@@ -29,11 +29,11 @@
     },
     {
       "month": "2025-11",
-      "total": 1
+      "total": 2
     },
     {
       "month": "2025-12",
-      "total": 0
+      "total": 3
     },
     {
       "month": "2026-01",
@@ -41,7 +41,7 @@
     },
     {
       "month": "2026-02",
-      "total": 0
+      "total": 1
     },
     {
       "month": "2026-03",
@@ -53,11 +53,11 @@
     },
     {
       "month": "2026-05",
-      "total": 0
+      "total": 26
     },
     {
       "month": "2026-06",
-      "total": 0
+      "total": 26
     },
     {
       "month": "2026-07",
@@ -69,11 +69,11 @@
     },
     {
       "month": "2026-09",
-      "total": 0
+      "total": 5
     },
     {
       "month": "2026-10",
-      "total": 4
+      "total": 5
     }
   ],
   "days": [
@@ -119,8 +119,8 @@
     },
     {
       "date": "2025-11-03",
-      "count": 1,
-      "level": 2
+      "count": 2,
+      "level": 1
     },
     {
       "date": "2025-11-04",
@@ -339,8 +339,8 @@
     },
     {
       "date": "2025-12-17",
-      "count": 0,
-      "level": 0
+      "count": 3,
+      "level": 1
     },
     {
       "date": "2025-12-18",
@@ -704,8 +704,8 @@
     },
     {
       "date": "2026-02-28",
-      "count": 0,
-      "level": 0
+      "count": 1,
+      "level": 1
     },
     {
       "date": "2026-03-01",
@@ -1144,43 +1144,43 @@
     },
     {
       "date": "2026-05-27",
-      "count": 0,
-      "level": 0
+      "count": 4,
+      "level": 2
     },
     {
       "date": "2026-05-28",
-      "count": 0,
-      "level": 0
+      "count": 6,
+      "level": 2
     },
     {
       "date": "2026-05-29",
-      "count": 0,
-      "level": 0
+      "count": 4,
+      "level": 2
     },
     {
       "date": "2026-05-30",
-      "count": 0,
-      "level": 0
+      "count": 2,
+      "level": 1
     },
     {
       "date": "2026-05-31",
-      "count": 0,
-      "level": 0
+      "count": 10,
+      "level": 4
     },
     {
       "date": "2026-06-01",
-      "count": 0,
-      "level": 0
+      "count": 3,
+      "level": 1
     },
     {
       "date": "2026-06-02",
-      "count": 0,
-      "level": 0
+      "count": 7,
+      "level": 3
     },
     {
       "date": "2026-06-03",
-      "count": 0,
-      "level": 0
+      "count": 4,
+      "level": 2
     },
     {
       "date": "2026-06-04",
@@ -1219,8 +1219,8 @@
     },
     {
       "date": "2026-06-11",
-      "count": 0,
-      "level": 0
+      "count": 12,
+      "level": 4
     },
     {
       "date": "2026-06-12",
@@ -1754,13 +1754,13 @@
     },
     {
       "date": "2026-09-26",
-      "count": 0,
-      "level": 0
+      "count": 2,
+      "level": 1
     },
     {
       "date": "2026-09-27",
-      "count": 0,
-      "level": 0
+      "count": 3,
+      "level": 1
     },
     {
       "date": "2026-09-28",
@@ -1885,22 +1885,22 @@
     {
       "date": "2026-10-22",
       "count": 1,
-      "level": 2
+      "level": 1
     },
     {
       "date": "2026-10-23",
       "count": 2,
-      "level": 4
+      "level": 1
     },
     {
       "date": "2026-10-24",
       "count": 1,
-      "level": 2
+      "level": 1
     },
     {
       "date": "2026-10-25",
-      "count": 0,
-      "level": 0
+      "count": 1,
+      "level": 1
     }
   ]
 }
