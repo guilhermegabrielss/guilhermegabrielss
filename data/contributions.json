@@ -1,26 +1,26 @@
 {
   "username": "guilhermegabrielss",
-  "generated_at": "2026-11-02T15:44:59Z",
+  "generated_at": "2026-11-03T14:08:40Z",
   "range": {
     "start": "2025-11-02",
+    "end": "2026-11-03"
+  },
+  "total_contributions": 138,
+  "active_days": 26,
+  "avg_per_active_day": 5.3,
+  "current_streak": {
+    "length": 12,
+    "start": "2026-10-22",
     "end": "2026-11-02"
   },
-  "total_contributions": 86,
-  "active_days": 25,
-  "avg_per_active_day": 3.4,
-  "current_streak": {
-    "length": 11,
-    "start": "2026-10-22",
-    "end": "2026-11-01"
-  },
   "longest_streak": {
-    "length": 11,
+    "length": 12,
     "start": "2026-10-22",
-    "end": "2026-11-01"
+    "end": "2026-11-02"
   },
   "best_day": {
-    "date": "2026-06-11",
-    "count": 12
+    "date": "2026-10-28",
+    "count": 23
   },
   "monthly": [
     {
@@ -69,11 +69,11 @@
     },
     {
       "month": "2026-10",
-      "total": 22
+      "total": 71
     },
     {
       "month": "2026-11",
-      "total": 1
+      "total": 4
     }
   ],
   "days": [
@@ -1110,7 +1110,7 @@
     {
       "date": "2026-05-27",
       "count": 4,
-      "level": 2
+      "level": 1
     },
     {
       "date": "2026-05-28",
@@ -1120,7 +1120,7 @@
     {
       "date": "2026-05-29",
       "count": 4,
-      "level": 2
+      "level": 1
     },
     {
       "date": "2026-05-30",
@@ -1130,7 +1130,7 @@
     {
       "date": "2026-05-31",
       "count": 10,
-      "level": 4
+      "level": 3
     },
     {
       "date": "2026-06-01",
@@ -1140,12 +1140,12 @@
     {
       "date": "2026-06-02",
       "count": 7,
-      "level": 3
+      "level": 2
     },
     {
       "date": "2026-06-03",
       "count": 4,
-      "level": 2
+      "level": 1
     },
     {
       "date": "2026-06-04",
@@ -1185,7 +1185,7 @@
     {
       "date": "2026-06-11",
       "count": 12,
-      "level": 4
+      "level": 3
     },
     {
       "date": "2026-06-12",
@@ -1879,31 +1879,36 @@
     },
     {
       "date": "2026-10-28",
-      "count": 7,
-      "level": 3
+      "count": 23,
+      "level": 4
     },
     {
       "date": "2026-10-29",
-      "count": 1,
-      "level": 1
+      "count": 18,
+      "level": 4
     },
     {
       "date": "2026-10-30",
-      "count": 1,
-      "level": 1
+      "count": 10,
+      "level": 3
     },
     {
       "date": "2026-10-31",
+      "count": 9,
+      "level": 2
+    },
+    {
+      "date": "2026-11-01",
       "count": 2,
       "level": 1
     },
     {
-      "date": "2026-11-01",
-      "count": 1,
+      "date": "2026-11-02",
+      "count": 2,
       "level": 1
     },
     {
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "count": 0,
       "level": 0
     }
